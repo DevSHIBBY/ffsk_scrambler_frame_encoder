@@ -28,3 +28,6 @@ Enter the **CLE** and **ID** parameters in the input boxes then click **Valider*
 
 The full frame is generated with the 17-bit CRC.
 The given data frame must match the transmitted one.
+
+# I want more!
+You're just one click away : [SHIBBY's Blog (FR)](https://blog.shibby.fr/2017/10/alcatel-atr42x-la-resurrection/)
